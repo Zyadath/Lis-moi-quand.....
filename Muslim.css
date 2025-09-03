@@ -1,0 +1,81 @@
+body{
+background-color:rgb(238, 190, 210);
+color: rgb(139, 103, 130);
+}
+.playfair-display-text{
+    background-image: url('FhGEBsod.jpg');
+    background-color: fixed;
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-weight: 12px;
+    font-style: normal;
+    width: 500px;
+    margin: 20%;
+    margin-top: 50px;
+    padding: 30px;
+    height: auto;
+    border: none;
+    border-radius: 30px;
+    box-shadow: 10px 10px 10px 10px rgba(234, 156, 234, 0.7);
+}
+.un,.deux,.trois{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
+i:active{
+    transform: scale(O.7);
+}
+i:hover{
+    cursor: pointer;
+}
+#jaune{
+    color: yellow;
+}
+#rose{
+    color: rgb(253, 172, 185);
+    margin-right: 50px;
+}
+#orange {
+    color: rgb(252, 190, 76);
+}
+#bleu{
+    color: rgb(172, 172, 255);
+    margin-right: 50px;
+}
+#rouge{
+    color: rgb(252, 37, 37);
+}
+#vert{
+    color: rgb(115, 252, 115);
+}
+.mot{
+    display: inline-block;
+    text-align: center;
+    font-style: normal;
+    margin-left: 10px;
+}
+h1{
+    text-align: center;
+    font-size: 30px;
+}
+h3{
+    text-align: center;
+    font-size: 25px;
+    margin-top: -5px;
+}
+p{
+    font-size: 18px;
+}
+#texte{
+    text-align: center;
+    margin-bottom: 5px;
+}
+.émotion{
+    margin-top: -10px;
+}
+.signature{
+    text-align: right;
+    margin-bottom: -10px;
+}
