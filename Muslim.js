@@ -78,4 +78,5 @@ function Choix(émotion) {
   const index = Math.floor(Math.random() * phrases.length);
   document.getElementById("texte").textContent = phrases[index];
 }
-alert("Qu'Allah apaise votre coeur et illumine votre chemin à chaque instant!")
+
+alert("[Sourate 13: Verset 28]:« N’est-ce point par l’évocation d’Allah que se tranquillisent les cœurs ? »🤍")
